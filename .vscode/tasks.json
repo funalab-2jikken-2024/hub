@@ -11,7 +11,7 @@
         "-I./include",
         "${file}",
         "-o",
-        "${fileDirname}/print"
+        "${fileDirname}/hub"
       ],
       "options": {
         "cwd": "${fileDirname}"
